@@ -1,2 +1,2 @@
-# Extensions
-These are some of the extensions
+# Web Browser Extensions
+This is a chrome/edge browser extensions
